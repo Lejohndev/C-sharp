@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MyWebApp.Models;
-
 namespace MyWebApp.Repository
 {
     public class DataContext : DbContext
